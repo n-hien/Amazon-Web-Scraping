@@ -9,7 +9,7 @@
 - Firstly, duplicates in the "Asin" column will be removed <br>
 - Then,the datatypes of price, Rating and Number of Rating will be converted to numeric for analysis purpose<br>
 - Using dataFrame.describe() and boxplot to see the distribution of product price
-<p style="border: 2px solid black;">
+<p style="padding-left:100">
  -----------------<br>
 count    250.00000 <br>
 mean      73.25436 <br>
