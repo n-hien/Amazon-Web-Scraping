@@ -10,6 +10,7 @@
 - Then,the datatypes of price, Rating and Number of Rating will be converted to numeric for analysis purpose<br>
 - Using dataFrame.describe() and boxplot to see the distribution of product price
 <p style="border: 2px solid black;">
+ -----------------<br>
 count    250.00000 <br>
 mean      73.25436 <br>
 std       72.46441 <br>
@@ -18,7 +19,9 @@ min        6.79000 <br>
 50%       41.19000 <br>
 75%       92.49000 <br>
 max      619.80000 <br>
-Name: Price, dtype: float64 </p>
+Name: Price, dtype: float64<br>
+  -----------------
+</p>
 <p align="center">
   <img src="boxplot.png">
 </p>
