@@ -16,7 +16,7 @@
 <p align="center">
   <img src="scatterplot.png">
 </p>
-- We maybe want to buy the product with Asin is B09J8HTDHX
+- We maybe want to buy the product with Asin-B09J8HTDHX
 
 <h2>Product Review Analysis</h2>
 - Libraries: request, BeautifulSoup, pandas, nltk<br>
