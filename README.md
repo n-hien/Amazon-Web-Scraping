@@ -35,6 +35,6 @@ Name: Price, dtype: float64<br>
 - Libraries: request, BeautifulSoup, pandas, nltk<br>
 - Function <a href='https://github.com/n-hien/Amazon-Product-Analysis/blob/main/ReviewScraper.ipynb'> get_review</a> is used to get all reviews of products <br>
 <p align="center">
-  <img src="reviews.png">
+  <img src="reviews.PNG">
 </p>
 
