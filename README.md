@@ -37,4 +37,7 @@ Name: Price, dtype: float64<br>
 <p align="center">
   <img src="reviews.PNG">
 </p>
+<p align="center">
+  <img src="wcloud.png">
+</p>
 
