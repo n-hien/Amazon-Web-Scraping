@@ -23,11 +23,11 @@ Name: Price, dtype: float64<br>
   -----------------</div>
 </p>
 <p align="center">
-  <img src="boxplot.png">
+  <img src="Plot/boxplot.png">
 </p>
 - Filter the top 20 products based on Rating and draw a scatter plot of these top 20 products
 <p align="center">
-  <img src="scatterplot.png">
+  <img src="Plot/scatterplot.png">
 </p>
 - We maybe want to buy the product with Asin-B09J8HTDHX
 
@@ -35,9 +35,9 @@ Name: Price, dtype: float64<br>
 - Libraries: request, BeautifulSoup, pandas, nltk<br>
 - Function <a href='https://github.com/n-hien/Amazon-Product-Analysis/blob/main/ReviewScraper.ipynb'> get_review</a> is used to get all reviews of products <br>
 <p align="center">
-  <img src="reviews.PNG">
+  <img src="Plot/reviews.PNG">
 </p>
 <p align="center">
-  <img src="wcloud.png">
+  <img src="Plot/wcloud.png">
 </p>
 
